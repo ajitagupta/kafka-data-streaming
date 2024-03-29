@@ -2,6 +2,7 @@
 In this case study we take stored shoe data and transfer it over Apache Kafka's producer/consumer model to the client's S3 bucket.
 
 ## Architecture
+![Kafka Architecture](https://i.ibb.co/R4DvKck/Kafka-drawio.png "Kafka Architecture")
 
 
 ### Kafka Broker
