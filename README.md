@@ -16,3 +16,12 @@ A consumer pulls records off a Kafka topic.
 
 ### Kafka Connect
 Kafka Connect makes it easy to stream from numerous sources into Kafka and from Kafka into numerous sources, with hundreds of available connectors.
+
+### Database
+The database contains sports data.
+
+### S3 Bucket
+The data is transferred into client's S3 Bucket.
+
+
+
