@@ -15,7 +15,7 @@ Producers are processes that push records into Kafka topics within the broker.
 A consumer pulls records off a Kafka topic.
 
 ### Kafka Connect
-Kafka Connect makes it easy to stream from numerous sources into Kafka and from Kafka into numerous sources, with hundreds of available connectors. Kafka Connectors are available ready-made and can be programmed by oneself, as we do here.
+Kafka Connect makes it easy to stream from numerous sources into Kafka and from Kafka into numerous sources, with hundreds of available connectors. Kafka connectors are available ready-made but can also be written by oneself, as we do here.
 
 ### Database
 The database contains stock market data.
