@@ -21,5 +21,5 @@ Kafka Connect makes it easy to stream from numerous sources into Kafka and from 
 The database contains stock market data.
 
 ### S3 Bucket
-The data is transferred into client's S3 Bucket.
+The data is transferred into the client's S3 Bucket.
 
