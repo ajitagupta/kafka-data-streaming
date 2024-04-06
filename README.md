@@ -2,8 +2,7 @@
 In this case study we take stored stock market data and transfer it over Apache Kafka's producer/consumer model to the client's S3 bucket where it is further used, e.g. for advertising purposes. This happens in real time.
 
 ## Architecture
-![Kafka Architecture](https://i.ibb.co/R4DvKck/Kafka-drawio.png "Kafka Architecture")
-
+![Kafka Architecture](https://i.ibb.co/n0Nr1pw/Kafka-drawio.png "Kafka Architecture")
 
 ### Kafka Broker
 A Kafka cluster consists of one or more servers (Kafka brokers) running Kafka.
